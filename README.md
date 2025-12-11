@@ -14,19 +14,17 @@ Throughout the exercises, you will work with:
 
 The goal is to strengthen your understanding of how Java manages data structures and to help you design clear, maintainable, and well-structured programs.
 
----
-
 ## 🧱 Project Structure
+
 src/
 ├── level01A/ # ArrayList, HashSet, Iterator
 ├── level01B/ # ListIterator and reversed lists
 ├── level01C/ # Capital Game (HashMap + file IO)
 ├── level02A/ # Restaurant equality (HashSet)
-└── level02AandB/ # Comparable/Comparator ordering
+├── level02AandB/ # Comparable/Comparator ordering
 resources/
 ├── countries.txt
 └── classificacio.txt
-
 ---
 
 # 🚀 Level 1
